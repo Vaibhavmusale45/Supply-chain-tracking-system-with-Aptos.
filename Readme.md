@@ -100,12 +100,9 @@ aptos move run --function-id "address::Tracking::update_product_status" \
 ## Contributing
 We welcome contributions to the Supply Chain Tracking System. Please feel free to submit issues and pull requests.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 For any queries regarding the project, please reach out to:
-- Project Lead: [Your Contact Information]
-- Development Team: [Team Contact Information]
+- Project Lead: [vaibhav musale]
+- Development Team: [musalevaibhaw@gmail.com]
 
 ---

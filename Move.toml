@@ -1,7 +1,7 @@
 [package]
 name = "Supply_chain_tracking_system_with_Aptos"
 version = "1.0.0"
-authors = ["Your Name"]
+authors = ["Vaibhav Musale"]
 
 [addresses]
 SupplyChainTrackingsysTemwithAptos = "0xa97f12a635ffc37a29face656b7ef45cbf336d67329b866e5828f9900007b87f"
@@ -11,8 +11,4 @@ git = "https://github.com/aptos-labs/aptos-core.git"
 rev = "aptos/mainnet"
 subdir = "aptos-move/framework/aptos-framework"
 
-# Remove this section if unnecessary
-[dev-addresses]
-
-[dev-dependencies]
 
